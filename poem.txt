@@ -3,4 +3,5 @@ The Jungle
 Brambleback glows red
 Gromp croaks loud
 Krugs have spread
+Scuttle move in shroud
 Raptors roar proud
